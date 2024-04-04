@@ -1,5 +1,5 @@
-####Name : Kanmani U
-####Reg no : 212221040070
+#### Name : Kanmani U
+#### Reg no : 212221040070
 
 # Ex02 Django ORM Web Application
 ## Date: 04.04.2024
@@ -27,7 +27,7 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
-####Models.py
+#### Models.py
 ```
 from django.db import models
 from django.contrib import admin
@@ -50,7 +50,7 @@ class Book(models.Model):
 class Book1(admin.ModelAdmin):
     list_display=('title','author','genre','publish_date','pages')
 ```
-####admin.py
+#### admin.py
 ```
 from django.contrib import admin
 
