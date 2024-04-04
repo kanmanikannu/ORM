@@ -1,5 +1,8 @@
+####Name : Kanmani U
+####Reg no : 212221040070
+
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 04.04.2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
@@ -69,8 +72,9 @@ admin.site.register(Book,BookAdmin)
 
 ## OUTPUT
 
-![Uploading Screenshot (19).png…]()
-![Uploading Screenshot (18).png…]()
+![Screenshot (19)](https://github.com/kanmanikannu/ORM/assets/114866367/032897a8-fc24-4db6-9234-6a1c548d65e9)
+![Screenshot (18)](https://github.com/kanmanikannu/ORM/assets/114866367/6a550c10-4976-41a6-b37b-3e67894c90c0)
+
 
 
 
